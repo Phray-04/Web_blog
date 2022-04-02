@@ -1,6 +1,8 @@
 # 小型博客类网站项目
  
  
+ 网址：(http://pupgkuvxq.cn/blugoon/index.html)
+ 
 本项目为前端小型网站（以个人博客为主题），前端开发采用HTML，css，JavaScript，sass预处理和bootstrap5前端组件库。
 
 __网站内容将持续更新 ...__
